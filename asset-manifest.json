@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.170d5f63.chunk.css",
-    "main.js": "/static/js/main.36da4a8d.chunk.js",
-    "main.js.map": "/static/js/main.36da4a8d.chunk.js.map",
-    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
-    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
-    "static/js/2.b6b3773c.chunk.js": "/static/js/2.b6b3773c.chunk.js",
-    "static/js/2.b6b3773c.chunk.js.map": "/static/js/2.b6b3773c.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.e03519273232c49aeb1b354a440b0b28.js": "/precache-manifest.e03519273232c49aeb1b354a440b0b28.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.170d5f63.chunk.css.map": "/static/css/main.170d5f63.chunk.css.map"
+    "main.css": "/wobbe/static/css/main.170d5f63.chunk.css",
+    "main.js": "/wobbe/static/js/main.36da4a8d.chunk.js",
+    "main.js.map": "/wobbe/static/js/main.36da4a8d.chunk.js.map",
+    "runtime~main.js": "/wobbe/static/js/runtime~main.315a4294.js",
+    "runtime~main.js.map": "/wobbe/static/js/runtime~main.315a4294.js.map",
+    "static/js/2.b6b3773c.chunk.js": "/wobbe/static/js/2.b6b3773c.chunk.js",
+    "static/js/2.b6b3773c.chunk.js.map": "/wobbe/static/js/2.b6b3773c.chunk.js.map",
+    "index.html": "/wobbe/index.html",
+    "precache-manifest.1755e720f5d68f614e2f0f12d7809b05.js": "/wobbe/precache-manifest.1755e720f5d68f614e2f0f12d7809b05.js",
+    "service-worker.js": "/wobbe/service-worker.js",
+    "static/css/main.170d5f63.chunk.css.map": "/wobbe/static/css/main.170d5f63.chunk.css.map"
   }
 }
